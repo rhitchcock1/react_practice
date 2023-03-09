@@ -1,4 +1,5 @@
 import Home from './components/Home'
+import Location from './components/Location';
 import Menus from './components/Menus'
 import Contact from './components/Contact'
 import { Route,  Routes } from "react-router-dom";
@@ -15,7 +16,7 @@ function App() {
         </Route>
        
       <Route path= "/Menus" element={<Menus />}/>
-     
+      <Route path= "/Location" element={<Location />}/>
       <Route path= "/Contact" element={<Contact />}/>
       </Routes>
     </div>

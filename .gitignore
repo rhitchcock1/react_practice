@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+ googleMapsApiKey='AIzaSyBt1QYZH6DxkMZCGZBX8nbzTEfjsL9kF1M'
+
 # production
 /build
 
