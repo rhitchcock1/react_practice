@@ -12,6 +12,7 @@ function Contact(){
                 <input type="date" placeholder="Date" />
                 <input type="time" placeholder="Time" />
                 <input type="text" placeholder="Any additional details" />
+                <button>Submit</button>
             </form>
         </div>
     )

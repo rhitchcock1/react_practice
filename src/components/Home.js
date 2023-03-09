@@ -1,11 +1,12 @@
 import React from 'react';
-import { Route } from "react-router-dom"
+
 
 function Home(){
     return (
         <div>
-            <h1>Welcome Home!</h1>
-            <img id="food-pic" src="https://www.food-management.com/sites/food-management.com/files/styles/article_featured_retina/public/gallery_promo_image/Auburn%20High%20School%20Cafeteria%20copy.jpg?itok=sIEERKZz" alt="food hall"/>
+            <h1>Roberts React Roadside Diner!</h1>
+            <img id="food-pic" src="https://media.guestofaguest.com/t_article_content/gofg-media/2019/12/1/53086/191203_mona_sohodiner-0005.jpg" alt="food hall"/>
+            <p> Welcome to my experiemntation and implemantaion of React and all of its many offerings! Enjoy!</p>
         </div>
     )
 

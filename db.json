@@ -1,0 +1,83 @@
+{
+    "drinks": [
+        {
+            "id" : 1,
+            "name": "House Red",
+            "image": "https://media.istockphoto.com/id/163140756/photo/red-wine-glass-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=VhpVhzeY_Ky8Ntsohgok6qAggzP9xTxB8Ao-Pk-XJvw=",
+            "details": "Earthy and cheap",
+            "price" : 10.00
+
+        },
+        {
+            "id" : 1,
+            "name": "House White",
+            "image": "https://media.istockphoto.com/id/163140861/photo/chardonnay-wine-glass-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=0qiig_lfQ37Dk59qgvvlx5lbthSC1u6QxL6zWnYpuLk=",
+            "details": "Oaky and cheap",
+            "price" : 9.00
+
+        },
+        {
+            "id" : 1,
+            "name": "Sangria",
+            "image": "https://www.monin.com/media/catalog/product/cache/086f110b92ec89cebc323a4780ab42bd/a/a/aa5ddbb3-72cb-453e-b396-82a337352d51-2.png",
+            "details": "Oaky and cheap",
+            "price" : 12.00
+
+        }
+    ],
+    "Lunch": [
+        {
+            "id" : 1,
+            "name": "Club Sandwich",
+            "image": "https://www.washingtonpost.com/resizer/FF-nnn4nxMKuzfwS96M4AwvGGEw=/arc-anglerfish-washpost-prod-washpost/public/JXVGZXA6IQI63HHGNASTXUYYMQ.jpg",
+            "details": " ood-quality bread and mayonnaise, fresh roasted turkey,",
+            "price" : 10.00
+
+        },
+        {
+            "id" : 1,
+            "name": "Cobb Salad",
+            "image": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2022/01/cobb-salad-34.jpg",
+            "details": "This classic Cobb Salad has crispy bacon, chicken, hard boiled eggs, green onions, avocados",
+            "price" : 10.00
+
+        },
+        {
+            "id" : 1,
+            "name": "Chicken Soup",
+            "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2023-01-Creamy-Chicken-Soup%2Fcreamy-chicken-soup-4",
+            "details": "Chicken soup with vegetables and herbs is pure cold weather comfort foo",
+            "price" : 8.00
+
+        }
+        
+    ],
+    "breakfast": [
+        {
+            "id" : 1,
+            "name": "Biscuts and Gravy",
+            "image": "https://embed.widencdn.net/img/beef/vgcx7dx456/1120x840px/beef-sausage-gravy.tif?keep=c&u=7fueml",
+            "details": " Jumbo buttermilk biscuits and pork sausage crumbles for a hearty, family-favorite breakfast",
+            "price" : 17.00
+
+        },
+        {
+            "id" : 1,
+            "name": "Pancakes",
+            "image": "https://static01.nyt.com/images/2017/03/24/dining/24COOKING-CLASSICPANCAKES/24COOKING-CLASSICPANCAKES-master768.jpg?w=1280&q=75",
+            "details": "Fluffy and great",
+            "price" : 12.00
+
+        },
+        {
+            "id" : 1,
+            "name": "Breakfast Sampler",
+            "image": "https://image.zmenu.com/large/103130/20140918000205960253.jpg",
+            "details": "All your faves!",
+            "price" : 19.00
+
+        }
+        
+    ]
+
+}

@@ -3,21 +3,21 @@ import { GoogleMap, LoadScript } from '@react-google-maps/api';
 
 
 function Location(){
-    // const API = "AIzaSyBt1QYZH6DxkMZCGZBX8nbzTEfjsL9kF1M"
+    
     const mapStyles = {        
         height: "75vh",
         width: "75%"};
       
       const defaultCenter = {
-        lat: 40.650002, lng: -73.949997
+        lat: 40.68389, lng: -73.96762
       }
  
       const item= [
         {
           name: "rest",
           location: {
-          lat: 40.6716 ,
-          lng: [-73.9628]
+          lat: 40.68389 ,
+          lng: [-73.96762]
           }
       }
     ];
@@ -30,7 +30,7 @@ function Location(){
       <div>
         <h1>Map?</h1>
         <LoadScript
-        googleMapsApiKey='API'>
+        googleMapsApiKey='AIzaSyBt1QYZH6DxkMZCGZBX8nbzTEfjsL9kF1M'>
          <GoogleMap
            mapContainerStyle={mapStyles}
            zoom={13}
